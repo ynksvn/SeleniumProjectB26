@@ -1,4 +1,4 @@
-package com.cydeo;
+package com.cydeo.testSelenium.day1_selenium_intro;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -8,6 +8,7 @@ public class SeleniumTest {
 
         //1- Setting up the web driver manager
        // WebDriverManager.chromedriver().setup();
+        //
 
         System.setProperty("webdriver.chrome.driver","C:\\Users\\Yankı Sevin\\Desktop\\Selenium/chromedriver.exe");
 
